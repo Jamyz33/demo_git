@@ -1,2 +1,2 @@
 var message = "hello world 2";
-alert("salut 1");
+alert('bonjour 2');
